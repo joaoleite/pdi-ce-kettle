@@ -1,0 +1,2 @@
+#0 3 * * * /opt/app/kettle61/data-integration/pan.sh -rep=kettle -dir=MY_DIR_TRANS -trans=MY_TRANS_NAME
+#0 20 * * * /opt/app/kettle61/data-integration/kitchen.sh -rep=kettle -dir=/MY_DIR_JOB -job=MY_JOB_NAME 

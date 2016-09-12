@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories>
+  <repository>
+    <id>KettleFileRepository</id>
+    <name>kettle</name>
+    <description>Kettle File Repo</description>
+    <base_directory><![CDATA[/opt/app/]]></base_directory>
+    <read_only>N</read_only>
+    <hides_hidden_files>N</hides_hidden_files>
+  </repository>
+</repositories>
